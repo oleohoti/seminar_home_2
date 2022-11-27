@@ -1,0 +1,15 @@
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\bin\Debug\net6.0\Example_015.exe
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\bin\Debug\net6.0\Example_015.deps.json
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\bin\Debug\net6.0\Example_015.runtimeconfig.json
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\bin\Debug\net6.0\Example_015.dll
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\bin\Debug\net6.0\Example_015.pdb
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.csproj.AssemblyReference.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.AssemblyInfoInputs.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.AssemblyInfo.cs
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.csproj.CoreCompileInputs.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.dll
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\refint\Example_015.dll
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.pdb
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\Example_015.genruntimeconfig.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\Example_015\obj\Debug\net6.0\ref\Example_015.dll
