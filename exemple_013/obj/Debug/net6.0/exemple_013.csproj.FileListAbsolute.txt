@@ -1,0 +1,15 @@
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\bin\Debug\net6.0\exemple_013.exe
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\bin\Debug\net6.0\exemple_013.deps.json
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\bin\Debug\net6.0\exemple_013.runtimeconfig.json
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\bin\Debug\net6.0\exemple_013.dll
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\bin\Debug\net6.0\exemple_013.pdb
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.csproj.AssemblyReference.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.AssemblyInfoInputs.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.AssemblyInfo.cs
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.csproj.CoreCompileInputs.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.dll
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\refint\exemple_013.dll
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.pdb
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\exemple_013.genruntimeconfig.cache
+D:\ИТ-специалист\Знакомство с языками программирования\seminar_2_home work\exemple_013\obj\Debug\net6.0\ref\exemple_013.dll
