@@ -8,11 +8,11 @@
 В комнате может быть очень много программистов. Проверьте, что ваша программа правильно обработает все случаи,
 как минимум до 1000 человек. */
 
-Console.WriteLine("Введите кол-во программистов в шт. (целое число)");
-int col = Convert.ToInt32(Console.ReadLine());
-int ost = col%10;
-string petuh = "программист";
-if (ost==1){Console.WriteLine($"в комнате {col} {petuh}");}
+Console.WriteLine("Введите кол-во программистов в шт. (целое число)"); // Приглашение
+int col = Convert.ToInt32(Console.ReadLine()); // Ввод и конвертация числа
+int ost = col%10; // Деление для нахождения остатка
+string petuh = "программист"; // введение строковой переменной, можно обойтись и без этого
+if (ost==1){Console.WriteLine($"в комнате {col} {petuh}");} // вывод просклоненного выражения при определенных условиях
 if (ost==2){Console.WriteLine($"в комнате {col} {petuh}а");}
 if (ost==3){Console.WriteLine($"в комнате {col} {petuh}а");}
 if (ost==4){Console.WriteLine($"в комнате {col} {petuh}а");}
