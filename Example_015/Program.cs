@@ -24,13 +24,23 @@ else if (day == 5)
 }
 else if (day == 6)
 {
-    Console.WriteLine("saturday");    // anal
+    Console.WriteLine("saturday");    // а этот неплох
 }
 else if (day == 7)
 {
-    Console.WriteLine("sunday"); // anal
+    Console.WriteLine("sunday"); // a этот неплох
 }
 else // иначе выводим фразу, что такого дня нет.
 {
     Console.Write("This day does not exist at this moment in time ");
 }
+// можно слепить через массив
+/* string[]days;
+    day[0] = Monday;
+    day[1] = Tuesday;
+    day[2] = Wednessday;
+    day[3] = Thursday;
+    day[4] = Friday;
+    day[5] = Saturday;
+    day[6] = Sunday;
+   String day = days[chislo-1];   */
