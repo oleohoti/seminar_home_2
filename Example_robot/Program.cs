@@ -10,9 +10,15 @@
 
 Console.WriteLine("Введите кол-во программистов в шт. (целое число)"); // Приглашение
 int col = Convert.ToInt32(Console.ReadLine()); // Ввод и конвертация числа
+string golos(int col)// функция формирующая сообщение с учетом кол-ва программистов
+{
 int ost = col%10; // Деление для нахождения остатка
 int des = col/10; // находим десятки для исключения чисел от 11 до 19
 string tip = "программист"; // введение строковой переменной, можно обойтись и без этого
-if (ost==1 && des!=1){Console.WriteLine($"в комнате {col} {tip}");} // вывод просклоненного выражения при определенных условиях
-if (ost>=2 && ost<5){Console.WriteLine($"в комнате {col} {tip}а");}
-if (ost>=5 && ost<9 && ost==0 || des==1){Console.WriteLine($"в комнате {col} {tip}ов");}
+string fr = "0";
+if (ost==1 && des!=1){ fr = $"в комнате {col} {tip}";} // вывод просклоненного выражения при определенных условиях
+if (ost>=2 && ost<5){ fr = $"в комнате {col} {tip}а";}
+if (ost>=5 && ost<9 && ost==0 || des==1){fr = $"в комнате {col} {tip}ов";}
+return fr;
+}
+Console.WriteLine(golos(col));
