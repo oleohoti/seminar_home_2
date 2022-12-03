@@ -11,7 +11,9 @@
 Console.WriteLine("Введите кол-во программистов в шт. (целое число)"); // Приглашение
 int col = Convert.ToInt32(Console.ReadLine()); // Ввод и конвертация числа
 int ost = col%10; // Деление для нахождения остатка
+int ost2 = col%100;
 string tip = "программист"; // введение строковой переменной, можно обойтись и без этого
+if (ost2>10 && ost2<20){Console.WriteLine($"в комнате {col} {tip}");}
 if (ost==1){Console.WriteLine($"в комнате {col} {tip}");} // вывод просклоненного выражения при определенных условиях
 if (ost>=2 && ost<5){Console.WriteLine($"в комнате {col} {tip}а");}
 if (ost>=5 && ost<9 && ost==0){Console.WriteLine($"в комнате {col} {tip}ов");}
